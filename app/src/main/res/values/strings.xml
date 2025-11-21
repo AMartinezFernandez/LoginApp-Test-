@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">LoginApp</string>
+
+    <string-array name="plataformas">
+        <item>Google</item>
+        <item>Facebook</item>
+        <item>Github</item>
+    </string-array>
+
+
+</resources>
